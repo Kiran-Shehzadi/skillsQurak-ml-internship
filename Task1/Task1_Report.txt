@@ -1,0 +1,35 @@
+TASK 1: EDA & PREPROCESSING SUBMISSION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ What I Did:
+- Loaded Iris dataset (150 flower samples)
+- Analyzed data patterns and statistics
+- Handled missing values (found 0)
+- Removed duplicates
+- Scaled all features to 0-1 range
+- Encoded categorical variables
+
+✅ Data Quality Report:
+- Missing Values: 0
+- Duplicates Removed: 0
+- Outliers Found: 3 (handled)
+- Final Rows: 150
+- Final Columns: 5 (4 features + 1 target)
+
+✅ Key Insights:
+- Petal length shows highest variation
+- Three flower species clearly separated
+- No data quality issues
+- Ready for ML modeling
+
+📊 Visualizations Created:
+- Distribution plots
+- Correlation heatmap
+- Box plots for outliers
+- Statistical summaries
+
+✅ Files Submitted:
+✓ Task1_EDA_Preprocessing.py
+✓ cleaned_data.csv
+✓ output.csv
+✓ eda_visualization.png
