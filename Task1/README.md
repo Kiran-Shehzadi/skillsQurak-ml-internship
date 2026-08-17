@@ -18,12 +18,6 @@
 10. [Output Interpretation](#output-interpretation)
 11. [Statistical Analysis](#statistical-analysis)
 12. [Data Quality Assessment](#data-quality-assessment)
-13. [Visualization Guide](#visualization-guide)
-14. [Data Transformations](#data-transformations)
-15. [Best Practices](#best-practices)
-16. [Troubleshooting](#troubleshooting)
-17. [Submission Checklist](#submission-checklist)
-18. [Performance Metrics](#performance-metrics)
 
 ---
 
